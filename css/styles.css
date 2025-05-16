@@ -10969,4 +10969,20 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+<<<<<<< Updated upstream
+=======
+}
+
+.navbar-dark .nav-link {
+    color: #FFFFFF !important;
+}
+
+/* Change all bg-primary elements to purple */
+.bg-primary {
+    background-color: #6A5ACD !important;
+}
+
+/* Make the education date text black */
+.education-date {
+    color: #000000 !important;
 }
