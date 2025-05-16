@@ -10974,3 +10974,8 @@ section.resume-section .resume-section-content {
 .navbar-dark .nav-link {
     color: #FFFFFF !important;
 }
+
+/* Change all bg-primary elements to purple */
+.bg-primary {
+    background-color: #6A5ACD !important;
+}
